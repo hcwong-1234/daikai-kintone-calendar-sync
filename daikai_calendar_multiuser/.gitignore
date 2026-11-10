@@ -1,0 +1,8 @@
+.env
+client_secret.json
+*.db
+instance/
+.venv/
+venv/
+__pycache__/
+*.pyc
